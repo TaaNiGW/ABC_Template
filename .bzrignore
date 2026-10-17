@@ -1,0 +1,14 @@
+*.suo
+*.ncb
+*.user
+*.pdb
+bin/
+obj/
+Debug/
+Release/
+.vs
+~$*
+*.zip
+node_modules
+pahcer-studio
+tools
